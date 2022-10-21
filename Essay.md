@@ -25,11 +25,10 @@ But as for trusting each other, it is our responsibility to choose honestly the 
 
 
 Timofey Kreslo, 
-Sciper : 310686
 April 10, 2022.
 
 
-**References**
+### References
 Dodgson, K., Baynham-Herd, Z., Symons, K. (2018). Blockchain and global  
 challenges: A Roadmap for NGOs. Edinburgh Futures Institute Paper. November 2018
 
