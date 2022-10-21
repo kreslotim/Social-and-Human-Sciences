@@ -1,6 +1,6 @@
-**Distributed Trust - Bitcoin and Blockchain**
+# Distributed Trust - Bitcoin and Blockchain
 
-**Introduction** 
+## Introduction
 A few weeks ago, Professor James Larus introduced us to blockchain technology, at the lectures, explaining basic principles of its architecture, what are the benefits as well as several disadvantages of this disruptive innovation. 
 Stemming out from this lecture, we will discuss the following question: 
 
