@@ -1,6 +1,6 @@
-**Grand Témoin - Kenneth Roth's conference** 
+# Grand Témoin - Kenneth Roth's conference
 
-**Introduction**
+### Introduction
 
 Today, the most relevant subject for controversy is the Russo-Ukrainian War.
 Mr. Kenneth Roth's eloquent speech, which was held at EPFL on 1st March 2022, emphasized the pulling events in Ukraine, suggesting that autocracy is the cause of all wars and national conflicts.
@@ -22,5 +22,4 @@ Now, for obvious reasons, it’s hard to separate one from the other... When int
 To conclude, seek for peace in a society with just one particular form of democracy, denying any other perspective doesn't seem to contribute to global peace. On the other hand, making the effort to understand a stranger's standpoint turns out to be the only way to contribute to harmonious existence. It is important to remember that when we talk to each other, look for what we have in common, not what makes us different.
 
 Timofey Kreslo, 
-Sciper : 310686
 March 4th, 2022.
